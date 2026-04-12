@@ -81,25 +81,6 @@ This is not a collection of projects — it is a **coherent system**:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=madanimkhitar22-beep&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/madanimkhitar22-beep)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/madanimkhitar22-beep/madanimkhitar22-beep/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
 
 ## 🧬 Engineering Principle
 
