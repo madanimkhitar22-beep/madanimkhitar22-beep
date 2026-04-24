@@ -42,7 +42,7 @@ I design **independent, intent-driven infrastructure** that bridges:
 |---------|-------------|--------|---------------|
 | **[🧠 madilang](https://github.com/madanimkhitar22-beep/madilang)** | Intent-driven programming language: describe what you want → get production-ready backend code | `v0.3 🧪` | Zero-boilerplate generation with ethical-by-default outputs |
 | **[🧠 Sovereign-Cognition-Engine](https://github.com/madanimkhitar22-beep/-Sovereign-Cognition-Engine)** | Ontological AI guardrail: 5 philosophical gates ensure every action aligns with human intent | `v2.0 🚀` | Quantifiable ethics: weights, scores, and authorization logic |
-| **[🛡️ Sovereign-DevKit](https://github.com/madanimkhitar22-beep/Sovereign-DevKit)** | Minimalist security utilities: detect & prevent sensitive data leaks before they happen | `v3.0 ✅` | 35-pattern scanner + auto-redaction + CI/CD integration |
+| **[🛡️ Sovereign-DevKit](https://github.com/madanimkhitar22-beep/Sovereign-DevKit)** | Minimalist security utilities: detect & prevent sensitive data leaks with safety-first workflow | `v3.1.0 ✅` | `--dry-run` • `--backup` • `--report` • 35-pattern scanner • Mobile-First CI |
 | **[🌟 Mkhitarian Philosophy](https://github.com/madanimkhitar22-beep/Mekhitarian-Philosophy-)** | Foundational framework: intention-based ontology for the digital age | `Concept 📖` | 5 principles bridging consciousness, ethics, and machine logic |
 
 </div>
