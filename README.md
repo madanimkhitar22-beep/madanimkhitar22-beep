@@ -32,37 +32,41 @@ I design **independent, protocol-grade infrastructure** that bridges:
 
 ---
 
-## 🏛️ Flagship Protocols & Systems
+## 🏛️ Sovereign & Independent Protocols
 
-*Foundational works built for reproducibility, auditability, and long-term governance.*
+*Foundational, self-owned research built for reproducibility, auditability, and long-term governance. These projects are fully independent and not affiliated with any external network.*
 
 <div align="center">
 
-| Project | Description | Status | Core Innovation |
-|---------|-------------|--------|-----------------|
-| **[🕊️ Al-Mithaq Core](https://github.com/madanimkhitar22-beep/al-mithaq-core)** | Computable Ethical Proof Protocol: deterministic evaluation, canonical audit hashing, cross-platform reproducibility | `v0.1.0 ✅` | `Evaluation ≠ Ranking ≠ Verification` • Type-safe DSL • SHA-256 audit contract |
-| **[🧠 madilang](https://github.com/madanimkhitar22-beep/madilang)** | Intent-driven language: describe outcomes → generate production-ready, ethics-aware backend code | `v0.3 🧪` | Zero-boilerplate generation with deterministic safety boundaries |
-| **[🛡️ Sovereign-Cognition-Engine](https://github.com/madanimkhitar22-beep/-Sovereign-Cognition-Engine)** | Ontological AI guardrail: 5 philosophical gates ensure every action aligns with human intent | `v2.0 🚀` | Quantifiable ethics: weights, scores, and explicit authorization logic |
-| **[🌟 Mkhitarian Philosophy](https://github.com/madanimkhitar22-beep/Mekhitarian-Philosophy-)** | Foundational framework: intention-based ontology for the digital age | `Concept 📖` | 5 principles bridging consciousness, ethics, and machine execution |
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **[🕊️ al-mithaq-core](https://github.com/madanimkhitar22-beep/al-mithaq-core)** | Computable Ethical Proof Protocol: deterministic evaluation, canonical audit hashing, cross-platform reproducibility | `Rust` | `v0.1.0 ✅` |
+| **[🛡️ Sovereign-DevKit](https://github.com/madanimkhitar22-beep/Sovereign-DevKit)** | High-impact, minimalist developer utilities for security, ethical automation, and decentralized sovereignty | `JavaScript` | `v3.1.0 ✅` |
+| **[🧠 madilang](https://github.com/madanimkhitar22-beep/madilang)** | Intent-driven programming language that generates real applications from human-readable intent | `Python` | `v0.3 🧪` |
+| **[🔮 Sovereign-Cognition-Engine](https://github.com/madanimkhitar22-beep/-Sovereign-Cognition-Engine)** | Ontological AI guardrail bridging human consciousness and machine logic via Mkhitarian principles | `JavaScript` | `v2.0 🚀` |
+| **[🌟 Mekhitarian-Philosophy](https://github.com/madanimkhitar22-beep/Mekhitarian-Philosophy-)** | Foundational framework: intention-based ontology for the digital age (5 core principles) | `Research` | `📖 Active` |
 
 </div>
-
 ---
-## 🤝 Ecosystem & Applied Research
 
-*Contributions to decentralized infrastructure and trust layers — built to empower verifiable ecosystems.*
+## 🌐 Pi Network Ecosystem Contributions
+
+*Open-source infrastructure and research contributed specifically to the Pi Network ecosystem. These are separate from the sovereign core and focus on Mainnet readiness, quantum security, and decentralized OS primitives.*
 
 <div align="center">
 
-| Project | Role | Focus Area |
-|---------|------|------------|
-| **[PiTrust Protocol](https://github.com/madanimkhitar22-beep/PiTrust-Infrastructure-Protocol)** | Architect | Decentralized identity, reputation & trust layer — Mainnet-ready |
-| **[PiQuantum-Nexus](https://github.com/madanimkhitar22-beep/PiQuantum-Nexus)** | Lead Researcher | Quantum-secure intelligence layer for post-quantum Web3 |
-| **[Sovereign-DevKit](https://github.com/madanimkhitar22-beep/Sovereign-DevKit)** | Author | Minimalist security utilities: leak prevention, dry-run safety, mobile-first CI |
-
-> 💡 *Ecosystem work demonstrates applied sovereignty. Flagship protocols are where foundational verification and governance research lives.*
+| Project | Focus Area | Stack | Status |
+|---------|------------|-------|--------|
+| **[PiTrust Protocol](https://github.com/madanimkhitar22-beep/PiTrust-Infrastructure-Protocol)** | Decentralized identity, reputation & trust layer — Mainnet-ready | `JavaScript` | `🌐 Ecosystem` |
+| **[PiQuantum-Nexus](https://github.com/madanimkhitar22-beep/PiQuantum-Nexus)** | Quantum-secure decentralized intelligence layer & post-quantum Web3 | `TypeScript` | `🔬 Research` |
+| **[PiBridge Migration](https://github.com/madanimkhitar22-beep/pibridge-smart-migration)** | AI-powered KYC, asset migration & reward automation infrastructure | `Infrastructure` | `🔄 Active` |
+| **[PiStorage](https://github.com/madanimkhitar22-beep/PiStorage)** | Decentralized cloud storage powered by Pi Blockchain • Quantum-Secure | `Storage Engine` | `☁️ Stable` |
+| **[PiNet-OS](https://github.com/madanimkhitar22-beep/PiNet-OS)** | AI-powered decentralized operating layer under PiOS Governance | `Web3 / AI` | `🧩 Integration` |
+| **[PiOS](https://github.com/madanimkhitar22-beep/PiOS)** | Decentralized OS primitives (Forked & adapted for ecosystem alignment) | `Fork` | `📦 Maintained` |
 
 </div>
+
+> 🔍 **Clear Boundary**: Sovereign protocols (`al-mithaq`, `DevKit`, `madilang`, `SCE`) are **independent research**. Pi Network projects are **ecosystem contributions** built to support decentralized adoption within that specific network.
 
 ---
 
@@ -73,7 +77,7 @@ I design **independent, protocol-grade infrastructure** that bridges:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Deterministic Systems](https://img.shields.io/badge/Systems-Deterministic-00f2ff?style=flat-square&logo=linux&logoColor=black)
 ![Formal Methods](https://img.shields.io/badge/Methods-Formal%20%26%20Auditable-6a0dad?style=flat-square&logo=gitbook&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Web3 / Protocols](https://img.shields.io/badge/Domain-Protocols%20%26%20Trust-FF6B35?style=flat-square&logo=ethereum&logoColor=white)
 ![Termux / Mobile-First](https://img.shields.io/badge/Env-Mobile%E2%80%91First-000000?style=flat-square&logo=android&logoColor=white)
@@ -92,10 +96,12 @@ I design **independent, protocol-grade infrastructure** that bridges:
 </div>
 
 <div align="center">
-
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madanimkhitar22-beep&theme=midnight-purple&hide_border=true&background=0f0c29&ring=00f2ff&fire=a78bfa&currStreakLabel=00f2ff&sideLabels=a78bfa)](https://github.com/madanimkhitar22-beep)
+</div>
 
 </div>
+
 ---
 
 ## 🧬 Protocol & Systems Philosophy
@@ -116,8 +122,8 @@ I design **independent, protocol-grade infrastructure** that bridges:
 | Track | Milestone | Status |
 |-------|-----------|--------|
 | `Al-Mithaq v1.5` | Formal Rule Compiler (TOML→AST→Plan) + Dynamic Bounds | 🟡 In Design |
-| `madilang v0.4` | Auto-testing pipeline + live deterministic docs | 🧪 Active |
-| `SCE v2.1` | Plugin architecture for custom ethical gates | 🚀 Stable |
+| `madilang v0.4` | Intent parser refinement + deterministic codegen pipeline | 🧪 Active |
+| `Sovereign-DevKit` | Multi-language pattern support + CI safety workflows | ✅ Stable |
 | `Mkhitarian Book` | First draft: intention-based ontology for digital systems | 📖 Writing |
 
 *All development continues on mobile-first infrastructure. Sponsorship accelerates transition to dedicated research workspace.*
@@ -141,12 +147,13 @@ I design **independent, protocol-grade infrastructure** that bridges:
 ---
 
 ## 🌐 Connect & Collaborate
-
 <div align="center">
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white&labelColor=0f0c29)](https://orcid.org/0009-0009-6663-902X)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=0f0c29)](https://x.com/madaniElmkhitar)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0f0c29)](https://discord.gg/MbQDsnjD)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=0f0c29)](https://x.com/madaniElmkhitar)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0f0c29)](https://discord.gg/MbQDsnjD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/el-madani-el-mkhitar-625753173)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&labelColor=0f0c29)](https://dev.to/madanimkhitar22beep)
 
 </div>
 
@@ -156,4 +163,4 @@ I design **independent, protocol-grade infrastructure** that bridges:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Every%20line%20of%20code%20is%20a%20choice.%20What%20will%20yours%20serve%3F&fontSize=15&fontColor=a78bfa&animation=fadeIn&fontAlignY=70&fontAlign=50" />
 
 <!-- Hidden meta for SEO / discovery -->
-<!-- Keywords: deterministic protocols, verifiable execution, ethical AI guardrails, algorithmic fairness, Rust systems, mobile-first engineering, Morocco tech, sovereign design, formal methods -->
+<!-- Keywords: deterministic protocols, verifiable execution, ethical AI guardrails, algorithmic fairness, Rust systems, mobile-first engineering, Morocco tech, sovereign design, formal methods, Pi Network ecosystem -->
