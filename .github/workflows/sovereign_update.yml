@@ -1,0 +1,38 @@
+name: Sovereign Node Heartbeat
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours (respects free tier limits)
+  workflow_dispatch:       # Manual trigger for testing
+
+jobs:
+  update-node:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Generate Sovereign SVG
+        run: python sovereign_engine.py
+        
+      - name: Smart Commit (Only if changed)
+        run: |
+          git config --global user.name "Sovereign-Cognition-Engine"
+          git config --global user.email "madani004@proton.me"
+          git add sovereign_node.svg
+          
+          # Check if there are actual changes before committing
+          if ! git diff --cached --quiet; then
+            git commit -m "[AUTO] Sovereign Node Pulse | $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "[INFO] No visual changes detected. Skipping commit."
+          fi
