@@ -9,7 +9,6 @@
 
 <br/>
 
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    IDENTITY CORE                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -42,6 +41,7 @@ My work bridges ancient wisdom and post-quantum cryptography, proving that **con
 | 🧬 **Aql Raqami Insani** (Digital Mind) | Verifiable Decentralized Compute | `Fayd Protocol` |
 | 🔗 **Takamul Ma'rifi** (Integration) | Unified Trust & Identity Layer | `PiTrust Ecosystem` |
 | ⚖️ **Hurriya Mas'ula** (Responsible Freedom) | Ethics-by-Default Security Scanning | `Sovereign-DevKit` |
+
 > 💡 **The Singularity:** These are not separate projects. They are organs of a single living system designed to restore **human sovereignty** in decentralized infrastructure.
 
 ---
@@ -56,7 +56,7 @@ My work bridges ancient wisdom and post-quantum cryptography, proving that **con
 -   **Nature:** First Intent-Driven Programming Language
 -   **Core:** Zero Boilerplate • Ethics Scoring • Mobile-First (Termux Ready)
 -   **Signature:** Every artifact carries verifiable `__MADI_SIGNATURE__`
--   **Status:** `v0.4.0` • Python/Node.js • Plugin System Active
+-   **Status:** `v0.5.0` • Multi-Target (Node.js + Python/FastAPI) • `madi doctor` Diagnostics
 -   **[ 🔮 EXPLORE_LANG ](https://github.com/madanimkhitar22-beep/madilang)**
 
 #### 🛡️ SOVEREIGN-COGNITION-ENGINE — The Ontological Filter
@@ -67,6 +67,15 @@ My work bridges ancient wisdom and post-quantum cryptography, proving that **con
 -   **Mission:** Prevent AI misalignment at the architectural level
 -   **Hardware:** Built entirely on Redmi Note 10
 -   **[ ⚙️ ENGAGE_ENGINE ](https://github.com/madanimkhitar22-beep/-Sovereign-Cognition-Engine)**
+
+#### 🔒 SOVEREIGN-DEVKIT — Security That Respects Your Intent
+> *"Don't guess. Know. Preview before you fix. Control is never automated away."*
+
+-   **Nature:** Ethical Secret Scanner & Security Toolkit
+-   **Core:** 35+ Patterns • `--dry-run` Safety • Zero Dependencies • Mobile-First (<2% battery)
+-   **Philosophy:** Intent-first design — you decide, the tool executes
+-   **Status:** `v3.1.0` • MIT License • CI/CD Ready
+-   **[ 🛡️ SECURE_NOW ](https://github.com/madanimkhitar22-beep/Sovereign-DevKit)**
 
 #### 🌊 FAYD PROTOCOL — Verifiable Compute Mesh
 > *"Turning idle devices into auditable AI infrastructure. From abundance, for everyone."*
@@ -90,7 +99,8 @@ As **Pi Network Architect**, I engineered a complete quantum-secure ecosystem se
 | **[PiTrust](https://github.com/madanimkhitar22-beep/PiTrust-Infrastructure-Protocol)** | Foundational Identity & Trust Protocol | ✅ 100/100 | Core of Ecosystem |
 | **[PiNet-OS](https://github.com/madanimkhitar22-beep/PiNet-OS)** | Quantum-Secure Operating Layer | ✅ 100/100 | AES-512 + ZTNA |
 | **[PiStorage](https://github.com/madanimkhitar22-beep/PiStorage)** | Decentralized Cloud (2.06 PB) | ✅ Mainnet Ready | 190+ Edge Nodes |
-| **[PiBridge](https://github.com/madanimkhitar22-beep/pibridge-smart-migration)** | Smart Migration & Cross-Chain | ✅ Audit Ready | Pi ↔ BSC/Eth || **[PiQuantum-Nexus](https://github.com/madanimkhitar22-beep/PiQuantum-Nexus)** | Cognitive Intelligence Layer | ✅ Sim Verified | Post-Quantum Crypto |
+| **[PiBridge](https://github.com/madanimkhitar22-beep/pibridge-smart-migration)** | Smart Migration & Cross-Chain | ✅ Audit Ready | Pi ↔ BSC/Eth |
+| **[PiQuantum-Nexus](https://github.com/madanimkhitar22-beep/PiQuantum-Nexus)** | Cognitive Intelligence Layer | ✅ Sim Verified | Post-Quantum Crypto |
 
 > 🇲🇦 **Moroccan Precision, Global Scale:** All systems built in Tetouan, aligned with PiOS Governance, and designed for institutional transparency.
 
@@ -139,6 +149,7 @@ As **Pi Network Architect**, I engineered a complete quantum-secure ecosystem se
 ### 📡 [ 06 // NEURAL_LINK ]
 
 <div align="center">
+
 [ `[ ORCID: 0009-0009-6663-902X ]`](https://orcid.org/0009-0009-6663-902X) &nbsp;•&nbsp; 
 [ `[ X: @madaniElmkhitar ]`](https://x.com/madaniElmkhitar) &nbsp;•&nbsp; 
 [ `[ DEV.TO: madanimkhitar22beep ]`](https://dev.to/madanimkhitar22beep) &nbsp;•&nbsp; 
