@@ -56,7 +56,7 @@ My work bridges ancient wisdom and post-quantum cryptography, proving that **con
 -   **Nature:** First Intent-Driven Programming Language
 -   **Core:** Zero Boilerplate • Ethics Scoring • Mobile-First (Termux Ready)
 -   **Signature:** Every artifact carries verifiable `__MADI_SIGNATURE__`
--   **Status:** `v0.5.0` • Multi-Target (Node.js + Python/FastAPI) • `madi doctor` Diagnostics
+-   **Status:** `v0.5.4` • 📦 **Official PyPI Package** • Multi-Target (Node.js + Python/FastAPI) • `madi doctor`
 -   **[ 🔮 EXPLORE_LANG ](https://github.com/madanimkhitar22-beep/madilang)**
 
 #### 🛡️ SOVEREIGN-COGNITION-ENGINE — The Ontological Filter
