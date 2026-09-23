@@ -1,11 +1,10 @@
 // profile.madi - The Ontological Blueprint
-// Intent: Define the sovereign identity and live node parameters
 
 Architect {
     id: "SOURCE_ARCHITECT"
     name: "EL MADANI EL MKHITAR"
     location: "TETOUAN, MOROCCO 🇲🇦"
-    hardware: "Redmi Note 10 (Termux)"
+    hardware: "Dedicated Sovereign Workstation"
     orcid: "0009-0009-6663-902X"
 }
 
@@ -17,8 +16,8 @@ LiveTerminal {
         "Aql Raqami Insani (Digital Mind)",
         "Al-Satr (Sacred Privacy)"
     ]
-    accent_color: "#4AF626" // Hacker Green for active sovereignty
-    bg_color: "#000000"     // Pure black for Al-Satr
+    accent_color: "#4AF626"
+    bg_color: "#000000"
 }
 
 MeshMap {
