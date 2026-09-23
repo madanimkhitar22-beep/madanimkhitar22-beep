@@ -1,21 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 420" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="100%" height="100%">
     <defs>
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&amp;family=Orbitron:wght@700&amp;display=swap');
-            .bg { fill: ['#000000"     // Pure black for Al-Satr']; stroke: #333; stroke-width: 2px; rx: 8px; }            .title { font-family: 'Orbitron', sans-serif; font-size: 16px; fill: #fff; font-weight: 700; letter-spacing: 1px; }
-            .line { font-family: 'Fira Code', monospace; font-size: 13px; fill: #ccc; opacity: 0; animation: reveal 0.1s forwards; }
-            .accent { fill: ['#4AF626" // Hacker Green for active sovereignty']; font-weight: bold; }
-            .cursor { animation: blink 1s step-end infinite; fill: ['#4AF626" // Hacker Green for active sovereignty']; }
+            .bg { fill: #000000; stroke: #333; stroke-width: 2px; rx: 8px; }
+            .title { font-family: 'Orbitron', sans-serif; font-size: 14px; fill: #4AF626; font-weight: 700; letter-spacing: 0.5px; }
+            .line { font-family: 'Fira Code', monospace; font-size: 12.5px; fill: #ddd; opacity: 0; animation: reveal 0.1s forwards; }
+            .accent { fill: #4AF626; font-weight: bold; }
+            .cursor { animation: blink 1s step-end infinite; fill: #4AF626; }
             @keyframes reveal { to { opacity: 1; } }
             @keyframes blink { 50% { opacity: 0; } }
         </style>
     </defs>
     
-    <rect width="850" height="420" class="bg"/>
-    <text x="20" y="35" class="title">[ MKHITARIAN ONTOLOGY v2.0 - LIVE NODE ]</text>
-    <line x1="20" y1="48" x2="830" y2="48" stroke="#333" stroke-width="1"/>
+    <rect width="900" height="520" class="bg"/>
+    <text x="20" y="30" class="title" style="opacity:1;font-size:15px;">[ MKHITARIAN ONTOLOGY v2.0 • MINIMAL &amp; SHARP ]</text>
+    <line x1="20" y1="42" x2="880" y2="42" stroke="#333" stroke-width="1"/>
     
-    <text x="20" y="70" class="line" style="animation-delay:0.0s">[INIT] Bootstrapping Sovereign Node...</text><text x="20" y="94" class="line" style="animation-delay:0.35s">[SCAN] Hardware: Redmi Note 10 (Termux) -> <tspan class="accent">OK</tspan></text><text x="20" y="118" class="line" style="animation-delay:0.7s">[WARN] Resource Constraint -> Engaging 'Proof of Friction'</text><text x="20" y="142" class="line" style="animation-delay:1.0499999999999998s">[LINK] Pi Network Infrastructure Layer -> <tspan class="accent">SYNCED</tspan></text><text x="20" y="166" class="line" style="animation-delay:1.4s">[VERIFY] Intent Signature: VALID (Al-Satr Compliant)</text><text x="20" y="190" class="line" style="animation-delay:1.75s">[TIME] Node Time: 2026-09-23 10:37:06 UTC</text><text x="20" y="214" class="line" style="animation-delay:2.1s"> </text><text x="20" y="238" class="line" style="animation-delay:2.45s">> Loading Philosophical Pillars:</text><text x="20" y="262" class="line" style="animation-delay:2.8000000000000003s"> </text><text x="20" y="286" class="line" style="animation-delay:3.1500000000000004s">> System is . Awaiting architectural directives...<tspan class="accent">ALIVE</tspan></text>
+    <text x="20" y="55" class="title line" style="animation-delay:0.0s">═══ LIVE SOVEREIGN NODE v2.0 ═══</text><text x="20" y="83" class="line" style="animation-delay:0.25s">[SOURCE_ARCHITECT] TETOUAN, MOROCCO 🇲🇦</text><text x="20" y="105" class="line" style="animation-delay:0.5s">[HW] Dedicated Sovereign Workstation<tspan class="accent">ACTIVE</tspan></text><text x="20" y="127" class="line" style="animation-delay:0.75s"> </text><text x="20" y="149" class="title line" style="animation-delay:1.0s">⬛ THE SOVEREIGN STACK</text><text x="20" y="177" class="line" style="animation-delay:1.25s">  🧠 MadiLang         │ v0.5.4 │ PyPI │ Intent-driven language</text><text x="20" y="199" class="line" style="animation-delay:1.5s">  🛡️ SCE               │ Active │ 5 Ethical Gates │ AI Guardrail</text><text x="20" y="221" class="line" style="animation-delay:1.75s">  🔒 Sovereign-DevKit  │ v3.1.0 │ 35+ Patterns │ Secret Scanner</text><text x="20" y="243" class="line" style="animation-delay:2.0s">  🌊 Fayd Protocol     │ Phase 0│ Rust/WASM │ Verifiable Compute</text><text x="20" y="265" class="line" style="animation-delay:2.25s"> </text><text x="20" y="287" class="title line" style="animation-delay:2.5s">🔷 RESEARCH CONTRIBUTIONS (Pi Network Proposals)</text><text x="20" y="315" class="line" style="animation-delay:2.75s">  PiTrust │ PiNet-OS │ PiStorage │ PiBridge │ PiQuantum-Nexus</text><text x="20" y="337" class="line" style="animation-delay:3.0s">  Status: Conceptual architectures for community peer review</text><text x="20" y="359" class="line" style="animation-delay:3.25s"> </text><text x="20" y="381" class="line" style="animation-delay:3.5s">[SYNC] Awaiting directives</text><text x="20" y="403" class="line" style="animation-delay:3.75s">[TIME] 2026-09-23 15:56 UTC</text>
     
-    <text x="20" y="325" class="line cursor" style="animation-delay:3.5000000000000004s">_</text>
+    <text x="20" y="433" class="line cursor" style="animation-delay:4.0s">_</text>
 </svg>
